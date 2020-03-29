@@ -5,4 +5,8 @@
   </PropertyGroup>
 
 
+  <ItemGroup>
+    <Folder Include="Helper\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
 </Project>
